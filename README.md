@@ -1,6 +1,8 @@
 # Tinder bot: Automatização de likes
 Bot feito em python para automatizar o like e conseguir muitos matchs no tinder.
 
+![tinder](https://github.com/alissonf216/tinder-bot-auto-like/blob/master/gifmacth.gif)
+
 # Requisitos
 
 1-:Atualize se navegador google chrome
