@@ -1,2 +1,3 @@
-username = 'alisson.franclin@facebook.com'
-password  = 'Bjl13***'
+username = 'seu email do face que da acesso ao tinder'
+password  = 'Sua senha'
+
