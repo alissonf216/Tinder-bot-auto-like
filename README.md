@@ -1,8 +1,10 @@
 # Tinder bot: Automatização de likes
 Bot feito em python para automatizar o like e conseguir muitos matchs no tinder
+
 # Requisitos
 
 1-:Atualize se navegador google chrome
+
 2-: acesse: https://chromedriver.chromium.org/home 
 e faça o download do ultimo release deacordo com seu sistema operacional, e mova esse arquivo descompactado para pasta do sistema.
 
