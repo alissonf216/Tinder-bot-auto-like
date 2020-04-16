@@ -1,5 +1,5 @@
 # Tinder bot: Automatização de likes
-Bot feito em python para automatizar o like e conseguir muitos matchs no tinder
+Bot feito em python para automatizar o like e conseguir muitos matchs no tinder.
 
 # Requisitos
 
