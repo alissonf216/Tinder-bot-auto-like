@@ -2,12 +2,16 @@
 Bot feito em python para automatizar o like e conseguir muitos matchs no tinder
 # Requisitos
 
-Primeiro acesse: https://chromedriver.chromium.org/home
+1-:Atualize se navegador google chrome
+2-: acesse: https://chromedriver.chromium.org/home 
 e faça o download do ultimo release deacordo com seu sistema operacional, e mova esse arquivo descompactado para pasta do sistema.
-OBs: No meu caso como uso Windows fica: C:/windows/
-## OBS: Atualize seu navegador ## 
+
+OBS: No meu caso como uso Windows mova para: C:/windows/
+
 Para Mac e Linux: mova para /usr/local/bin (mac os / linux)
+
 Instale via pip o selenium abrindo o terminal 
+
 pip install selenium
 
 No arquivo dados_login.py você colocara suas credenciais de acesso ao tinder, no caso desse Bot usamos o facebook
