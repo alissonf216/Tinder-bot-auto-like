@@ -18,6 +18,8 @@ Instale via pip o selenium abrindo o terminal
 
 pip install selenium
 
+pip install pyautogui
+
 No arquivo dados_login.py você colocara suas credenciais de acesso ao tinder, no caso desse Bot usamos o facebook
 
  username = 'seu email para acessar o facebook'
