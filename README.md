@@ -20,7 +20,7 @@ pip install selenium
 
 pip install pyautogui
 
-No arquivo dados_login.py você colocara suas credenciais de acesso ao tinder, no caso desse Bot usamos o facebook
+No arquivo dados_login.py você colocará suas credenciais de acesso ao tinder, no caso desse Bot usamos o facebook
 
  username = 'seu email para acessar o facebook'
  password = 'sua senha'
@@ -30,8 +30,8 @@ Quando execultar o arquivo: tinder_like.py , uma pagina do google chrome abrirá
 5 - Sair
 
 # Conclusão
-Por favor fique avontade para movificar melhorar ou piorar kkkkk oque quiser nesses aquivos.
+Por favor fique avontade para movificar melhorar o que quiser nesses aquivos.
 
-Vou lançar uma nova versão logo logo, com machine learnig que vai classificar mulheres bonitas(Baseado em meu gosta) para da likes.
+Vou lançar uma nova versão logo logo, com machine learnig que vai classificar mulheres bonitas(Baseado em meu gosto) para da likes.
 
 Segue a gente ai hahaha e boms Likes
